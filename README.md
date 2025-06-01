@@ -54,16 +54,14 @@ streamlit run vehicle_detection.py
 
 ## 📸 Demo
 
-![demo](https://your-gif-or-screenshot-link.com)
+![image](https://github.com/user-attachments/assets/67df2063-699b-4395-9676-53ae6c4d6923)
+
 
 ## 🧠 Model Info
 
 YOLOv12n custom model trained for vehicle detection (supports cars, bikes, trucks, buses, etc.)
 
-## 📄 License
-
-MIT License
 
 ## 🙋‍♂️ Author
 
-Made by [Your Name](https://github.com/your-username)
+Dhanish S
